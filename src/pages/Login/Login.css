@@ -1,0 +1,29 @@
+.login {
+    width: 100%;
+    max-width: 1120px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.login section {
+    width: 100%;
+    max-width: 350px;
+    margin-right: 30px;
+}
+
+.login section form {
+    margin-top: 100px;
+}
+
+.login section form h1 {
+    margin-bottom: 32px;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+.login section form a svg {
+    margin-right: 5px;
+}
